@@ -158,6 +158,7 @@ section.change {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    height:auto;
 }
 
 .card-img {
